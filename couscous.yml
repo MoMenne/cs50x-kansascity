@@ -19,17 +19,13 @@ title: LaunchCode's CS50x - Kansas City
 # The left menu bar
 menu:
     items:
-        howtotake:
-            text: How To Take This Class
-            relativeUrl: how-to-take-this-class/    
-        coursecontent:
-            text: Course Content 
-            # You can use relative urls
-            relativeUrl: course-content/ 
         calendar:
             text: Calendar 
             # You can use relative urls
             relativeUrl: calendar/ 
+        howtotake:
+            text: How To Take This Class
+            relativeUrl: how-to-take-this-class/    
         helpfulresources:
             text: Helpful Resources
             relativeUrl: helpful-resources/
