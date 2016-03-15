@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <title>LaunchCode&#039;s CS50x - Kansas City</title>
+
+        <link rel="stylesheet" href="http://education.launchcode.org/cs50x-kansascity/css/bootstrap.min.css">
+        <link rel="stylesheet" href="http://education.launchcode.org/cs50x-kansascity/css/font-awesome.min.css">
+        <link rel="stylesheet" href="http://education.launchcode.org/cs50x-kansascity/css/highlight.dark.css">
+        <link rel="stylesheet" href="http://education.launchcode.org/cs50x-kansascity/css/main.css">
+    </head>
+    <body>
+
+        <header class="navbar navbar-default navbar-fixed-top">
+
+            <a class="navbar-brand" href="http://education.launchcode.org/cs50x-kansascity/">
+                LaunchCode&#039;s CS50x - Kansas City
+            </a>
+
+        </header>
+
+        <main class="container-fluid">
+            <div class="row">
+
+                
+                    <nav id="sidebar" class="col-sm-3 col-lg-2" role="navigation">
+
+                        <ul class="nav nav-pills nav-stacked">
+                                                            <li class="">
+                                    <a href="http://education.launchcode.org/cs50x-kansascity/how-to-take-this-class/">
+                                        How To Take This Class
+                                    </a>
+                                </li>
+                                                            <li class="">
+                                    <a href="http://education.launchcode.org/cs50x-kansascity/calendar/">
+                                        Calendar
+                                    </a>
+                                </li>
+                                                            <li class="">
+                                    <a href="http://education.launchcode.org/cs50x-kansascity/helpful-resources/">
+                                        Helpful Resources
+                                    </a>
+                                </li>
+                                                            <li class="">
+                                    <a href="http://cs50.io/">
+                                        CS50 IDE
+                                    </a>
+                                </li>
+                                                            <li class="">
+                                    <a href="https://labs.vocareum.com/home/login.php">
+                                        Vocareum
+                                    </a>
+                                </li>
+                                                            <li class="">
+                                    <a href="http://piazza.com/todo-link-to-kansascity-piazza-page">
+                                        Piazza
+                                    </a>
+                                </li>
+                                                            <li class="">
+                                    <a href="https://docs.google.com/document/d/1qyWoWFAxUAc_-OcXQYRX4ZxELUyZxSnArFvAacrfFsA/edit?usp=sharing">
+                                        Student Guide
+                                    </a>
+                                </li>
+                                                    </ul>
+
+                    </nav>
+
+                
+                <section id="content" class="col-sm-offset-3 col-lg-offset-2 col-sm-9 col-lg-10">
+                    <p><code>image-search-1.html</code></p>
+<pre><code class="language-html">&lt;!DOCTYPE html&gt;
+&lt;html lang="en"&gt;
+    &lt;head&gt;
+        &lt;meta charset="utf-8"&gt;
+        &lt;meta name="viewport" content="width=device-width, initial-scale=1"&gt;
+
+        &lt;title&gt;LaunchCode&amp;#039;s CS50x - Kansas City&lt;/title&gt;
+
+        &lt;link rel="stylesheet" href="http://education.launchcode.org/cs50x-kansascity/css/bootstrap.min.css"&gt;
+        &lt;link rel="stylesheet" href="http://education.launchcode.org/cs50x-kansascity/css/font-awesome.min.css"&gt;
+        &lt;link rel="stylesheet" href="http://education.launchcode.org/cs50x-kansascity/css/highlight.dark.css"&gt;
+        &lt;link rel="stylesheet" href="http://education.launchcode.org/cs50x-kansascity/css/main.css"&gt;
+    &lt;/head&gt;
+    &lt;body&gt;
+
+        &lt;header class="navbar navbar-default navbar-fixed-top"&gt;
+
+            &lt;a class="navbar-brand" href="http://education.launchcode.org/cs50x-kansascity/"&gt;
+                LaunchCode&amp;#039;s CS50x - Kansas City
+            &lt;/a&gt;
+
+        &lt;/header&gt;
+
+        &lt;main class="container-fluid"&gt;
+            &lt;div class="row"&gt;
+
+                    &lt;nav id="sidebar" class="col-sm-3 col-lg-2" role="navigation"&gt;
+
+                        &lt;ul class="nav nav-pills nav-stacked"&gt;
+                                                            &lt;li class=""&gt;
+                                    &lt;a href="http://education.launchcode.org/cs50x-kansascity/how-to-take-this-class/"&gt;
+                                        How To Take This Class
+                                    &lt;/a&gt;
+                                &lt;/li&gt;
+                                                            &lt;li class=""&gt;
+                                    &lt;a href="http://education.launchcode.org/cs50x-kansascity/calendar/"&gt;
+                                        Calendar
+                                    &lt;/a&gt;
+                                &lt;/li&gt;
+                                                            &lt;li class=""&gt;
+                                    &lt;a href="http://education.launchcode.org/cs50x-kansascity/helpful-resources/"&gt;
+                                        Helpful Resources
+                                    &lt;/a&gt;
+                                &lt;/li&gt;
+                                                            &lt;li class=""&gt;
+                                    &lt;a href="http://cs50.io/"&gt;
+                                        CS50 IDE
+                                    &lt;/a&gt;
+                                &lt;/li&gt;
+                                                            &lt;li class=""&gt;
+                                    &lt;a href="https://labs.vocareum.com/home/login.php"&gt;
+                                        Vocareum
+                                    &lt;/a&gt;
+                                &lt;/li&gt;
+                                                            &lt;li class=""&gt;
+                                    &lt;a href="http://piazza.com/todo-link-to-kansascity-piazza-page"&gt;
+                                        Piazza
+                                    &lt;/a&gt;
+                                &lt;/li&gt;
+                                                            &lt;li class=""&gt;
+                                    &lt;a href="https://docs.google.com/document/d/1qyWoWFAxUAc_-OcXQYRX4ZxELUyZxSnArFvAacrfFsA/edit?usp=sharing"&gt;
+                                        Student Guide
+                                    &lt;/a&gt;
+                                &lt;/li&gt;
+                                                    &lt;/ul&gt;
+
+                    &lt;/nav&gt;
+
+                &lt;section id="content" class="col-sm-offset-3 col-lg-offset-2 col-sm-9 col-lg-10"&gt;
+                    &lt;p&gt;&lt;code&gt;image-search-1.html&lt;/code&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-html"&gt;&amp;lt;!DOCTYPE html&amp;gt;
+  &amp;lt;html&amp;gt;
+    &amp;lt;title&amp;gt;Image Search&amp;lt;/title&amp;gt;
+  &amp;lt;head&amp;gt;
+    &amp;lt;h2&amp;gt;CS50 Image Search&amp;lt;/h2&amp;gt;
+  &amp;lt;/head&amp;gt;
+  &amp;lt;body&amp;gt;
+    &amp;lt;form action="https://www.google.com/search" method="get"&amp;gt;
+      &amp;lt;input name="q" type="text"/&amp;gt;
+      &amp;lt;br/&amp;gt;
+      &amp;lt;input name="tbm" value="isch" type="hidden"/&amp;gt;
+      &amp;lt;br/&amp;gt;
+      &amp;lt;input type="submit" value="CS50 Search"/&amp;gt;
+  &amp;lt;/form&amp;gt;
+  &amp;lt;/body&amp;gt;
+&amp;lt;/html&amp;gt;&lt;/code&gt;&lt;/pre&gt;
+                &lt;/section&gt;
+
+            &lt;/div&gt;
+        &lt;/main&gt;
+
+        &lt;footer&gt;
+            &lt;div class="container-fluid"&gt;
+                &lt;p class="text-muted"&gt;
+                    website generated with &lt;a href="http://couscous.io" title="Markdown website generator"&gt;Couscous&lt;/a&gt;
+                &lt;/p&gt;
+            &lt;/div&gt;
+        &lt;/footer&gt;
+
+        &lt;script src="//code.jquery.com/jquery-1.11.0.min.js"&gt;&lt;/script&gt;
+        &lt;script src="//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"&gt;&lt;/script&gt;
+        &lt;script src="//yastatic.net/highlightjs/8.2/highlight.min.js"&gt;&lt;/script&gt;
+
+        &lt;script&gt;
+            $(function() {
+                $("section&gt;h1").wrap('&lt;div class="page-header" /&gt;');
+                // Syntax highlighting
+                hljs.initHighlightingOnLoad();
+            });
+        &lt;/script&gt;
+
+    &lt;/body&gt;
+&lt;/html&gt;</code></pre>
+                </section>
+
+            </div>
+        </main>
+
+        <footer>
+            <div class="container-fluid">
+                <p class="text-muted">
+                    website generated with <a href="http://couscous.io" title="Markdown website generator">Couscous</a>
+                </p>
+            </div>
+        </footer>
+
+        <script src="//code.jquery.com/jquery-1.11.0.min.js"></script>
+        <script src="//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
+        <script src="//yastatic.net/highlightjs/8.2/highlight.min.js"></script>
+
+        <script>
+            $(function() {
+                $("section>h1").wrap('<div class="page-header" />');
+                // Syntax highlighting
+                hljs.initHighlightingOnLoad();
+            });
+        </script>
+
+    </body>
+</html>
