@@ -1,3 +1,6 @@
+`image-search-1.html` 
+
+```html
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -80,7 +83,7 @@
     &lt;form action="https://www.google.com/search" method="get"&gt;
       &lt;input name="q" type="text"/&gt;
       &lt;br/&gt;
-      &lt;input name="tbm" value="isch" type="hidden"/&gt;
+      &lt;input name="tbm" value="isch" type="text"/&gt;
       &lt;br/&gt;
       &lt;input type="submit" value="CS50 Search"/&gt;
   &lt;/form&gt;
@@ -113,3 +116,4 @@
 
     </body>
 </html>
+```
