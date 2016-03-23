@@ -15,6 +15,6 @@ We'll learn about the protocols that allow users to connect with servers, and ge
 
 Class # | Date | Before Class | During Class | Topics/Skills
 :--------:|:---:|:------------:|:------------:|-----------------------|
-Class 1 | TBD | [Prep Work](./materials/class1-prep) | [In Class](./materials/class1) | architecture of the web, TCP/IP, HTTP |
-Class 2 | TBD | [Prep Work](./materials/class2-prep) | [In Class](./materials/class2) | HTML, CSS, HTML forms |
-Class 3 | TBD |  Work on [Problem Set 6](./materials/problem-set) | [In Class](./materials/class3) | (office hours!)|
+Class 1 | 6/20 | [Prep Work](./materials/class1-prep) | [In Class](./materials/class1) | architecture of the web, TCP/IP, HTTP |
+Class 2 | 6/22 | [Prep Work](./materials/class2-prep) | [In Class](./materials/class2) | HTML, CSS, HTML forms |
+Class 3 | 6/27 |  Work on [Problem Set 6](./materials/problem-set) | [In Class](./materials/class3) | (office hours!)|
