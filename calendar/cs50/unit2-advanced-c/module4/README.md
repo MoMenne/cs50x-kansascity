@@ -21,7 +21,7 @@ In Problem Set 4, you will combine your new skills in these topics to write prog
 Class # | Date | Before Class | During Class | Topics/Skills
 :------:|:----:|:------------:|:------------:|-----------------------|
 Class 1 | 5/25 | [Prep Work](./materials/class1-prep) | [In Class](./materials/class1) | more practice with recursion, pointers, malloc
-Memorial Day | 5/30 | No class on Monday, May 30th to celebrate Memorial Day!
+Memorial Day | 5/30 | Keep preppin! | No class | No class on Monday, May 30th to celebrate Memorial Day!
 Class 2 | 6/1 | [Prep Work](./materials/class2-prep) | [In Class](./materials/class2) | hexadecimal, file io, structs
 Class 3 | 6/6 | Work on [Problem Set 4](./materials/problem-set) | [In Class](./materials/class3) | (office hours)
 
