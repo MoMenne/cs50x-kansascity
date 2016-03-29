@@ -39,7 +39,7 @@ menu:
             attributes: target="_blank"
         piazza:
             text: Piazza
-            absoluteUrl: piazza.com/launchcode/spring2016/cs50
+            absoluteUrl: https://piazza.com/launchcode/spring2016/cs50
             attributes: target="_blank"
         studentguide:  
             text: Student Guide
