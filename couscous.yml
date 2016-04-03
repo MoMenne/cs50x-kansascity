@@ -19,6 +19,10 @@ title: LaunchCode's CS50x - Kansas City
 # The left menu bar
 menu:
     items:
+        studentguide:  
+            text: Student Guide
+            absoluteUrl: https://docs.google.com/document/d/1qyWoWFAxUAc_-OcXQYRX4ZxELUyZxSnArFvAacrfFsA/edit?usp=sharing
+            attributes: target="_blank"
         howtotake:
             text: How To Take This Class
             relativeUrl: how-to-take-this-class/    
@@ -40,8 +44,4 @@ menu:
         piazza:
             text: Piazza
             absoluteUrl: https://piazza.com/launchcode/spring2016/cs50
-            attributes: target="_blank"
-        studentguide:  
-            text: Student Guide
-            absoluteUrl: https://docs.google.com/document/d/1qyWoWFAxUAc_-OcXQYRX4ZxELUyZxSnArFvAacrfFsA/edit?usp=sharing
             attributes: target="_blank"
