@@ -1,10 +1,10 @@
 #This is LaunchCode's CS50x Kansas City!
-Hello, and welcome to LaunchCode's CS50x Kansas City course<a href="https://github.com/LaunchCodeEducation/cs50x-kansascity">!</a> This course teaches the foundations of computer science and programming using world-class curriculum and mentored support. There's a lot to learn, but before you get started, you probably have a few questions.
+Hello, and welcome to LaunchCode's CS50x Kansas City course! This course teaches the foundations of computer science and programming using world-class curriculum and mentored support. There's a lot to learn, but before you get started, you probably have a few questions.
 
 ## What is CS50x?
 CS50 is Harvard’s Introduction to Programming course for non-CS majors. 
 
-CS50x (notice the 'x') is a free online version of the class offered through edX, a MOOC (massive open online course) platform formed by Harvard and MIT. 
+CS50x (notice the 'x') is a free online version of the class offered through edX, a MOOC (massive open online course) platform formed by Harvard and MIT<a href="https://github.com/LaunchCodeEducation/cs50x-kansascity">.</a> 
 
 LaunchCode’s CS50x is an in-person version of CS50x with a number of cool perks, including:
 
