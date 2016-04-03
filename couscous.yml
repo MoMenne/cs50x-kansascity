@@ -33,6 +33,10 @@ menu:
         helpfulresources:
             text: Helpful Resources
             relativeUrl: helpful-resources/
+        kcresources:
+            text: KC Resources
+            absoluteUrl: http://sce2.umkc.edu/BIT/burrise/cs50/
+            attributes: target="_blank"
         ide:
             text: CS50 IDE
             absoluteUrl: http://cs50.io/
