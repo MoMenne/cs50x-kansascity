@@ -19,6 +19,10 @@ title: LaunchCode's CS50x - Kansas City
 # The left menu bar
 menu:
     items:
+        studentguide:  
+            text: Student Guide
+            absoluteUrl: https://docs.google.com/document/d/1qyWoWFAxUAc_-OcXQYRX4ZxELUyZxSnArFvAacrfFsA/edit?usp=sharing
+            attributes: target="_blank"
         howtotake:
             text: How To Take This Class
             relativeUrl: how-to-take-this-class/    
@@ -29,6 +33,10 @@ menu:
         helpfulresources:
             text: Helpful Resources
             relativeUrl: helpful-resources/
+        kcresources:
+            text: KC Resources
+            absoluteUrl: http://sce2.umkc.edu/BIT/burrise/cs50/
+            attributes: target="_blank"
         ide:
             text: CS50 IDE
             absoluteUrl: http://cs50.io/
@@ -39,9 +47,5 @@ menu:
             attributes: target="_blank"
         piazza:
             text: Piazza
-            absoluteUrl: piazza.com/launchcode/spring2016/cs50
-            attributes: target="_blank"
-        studentguide:  
-            text: Student Guide
-            absoluteUrl: https://docs.google.com/document/d/1qyWoWFAxUAc_-OcXQYRX4ZxELUyZxSnArFvAacrfFsA/edit?usp=sharing
+            absoluteUrl: https://piazza.com/launchcode/spring2016/cs50
             attributes: target="_blank"

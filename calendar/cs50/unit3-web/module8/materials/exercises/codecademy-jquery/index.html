@@ -29,6 +29,11 @@
 
                         <ul class="nav nav-pills nav-stacked">
                                                             <li class="">
+                                    <a href="https://docs.google.com/document/d/1qyWoWFAxUAc_-OcXQYRX4ZxELUyZxSnArFvAacrfFsA/edit?usp=sharing">
+                                        Student Guide
+                                    </a>
+                                </li>
+                                                            <li class="">
                                     <a href="http://education.launchcode.org/cs50x-kansascity/how-to-take-this-class/">
                                         How To Take This Class
                                     </a>
@@ -44,6 +49,11 @@
                                     </a>
                                 </li>
                                                             <li class="">
+                                    <a href="http://sce2.umkc.edu/BIT/burrise/cs50/">
+                                        KC Resources
+                                    </a>
+                                </li>
+                                                            <li class="">
                                     <a href="http://cs50.io/">
                                         CS50 IDE
                                     </a>
@@ -54,13 +64,8 @@
                                     </a>
                                 </li>
                                                             <li class="">
-                                    <a href="piazza.com/launchcode/spring2016/cs50">
+                                    <a href="https://piazza.com/launchcode/spring2016/cs50">
                                         Piazza
-                                    </a>
-                                </li>
-                                                            <li class="">
-                                    <a href="https://docs.google.com/document/d/1qyWoWFAxUAc_-OcXQYRX4ZxELUyZxSnArFvAacrfFsA/edit?usp=sharing">
-                                        Student Guide
                                     </a>
                                 </li>
                                                     </ul>
@@ -69,72 +74,17 @@
 
                 
                 <section id="content" class="col-sm-offset-3 col-lg-offset-2 col-sm-9 col-lg-10">
-                    <p><code>graffiti.html</code></p>
-<pre><code class="language-html">&lt;!DOCTYPE html&gt;
-&lt;html&gt;
-&lt;head&gt;  
-    &lt;title&gt;Graffiti&lt;/title&gt;
-    &lt;link rel="stylesheet" type="text/css" href="styles.css" /&gt;
-&lt;/head&gt;
-&lt;body&gt;
-    &lt;div class="heading"&gt;
-        &lt;h1&gt;Graffiti&lt;/h1&gt;
-        &lt;h4&gt;Add your voice to the Pset6-Alt graffiti wall&lt;/h4&gt;
-    &lt;/div&gt;
-
-    &lt;div class="card"&gt;
-
-        &lt;!-- Don't change the id. Our JS script below is looking for "slackForm". --&gt;
-        &lt;form id="slackForm"&gt; 
-
-            &lt;!-- TODO: add the necessary fields, action, submit button, etc --&gt;
-
-        &lt;/form&gt;
-    &lt;/div&gt;
-
-    &lt;!-- here we include some javascript: first a few libraries... --&gt;
-    &lt;script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"&gt;&lt;/script&gt;
-    &lt;script src="http://code.jquery.com/ui/1.9.2/jquery-ui.js"&gt;&lt;/script&gt;
-
-    &lt;!-- ...and then our own script --&gt;
-    &lt;script type="text/javascript"&gt;
-
-        // first get a reference to the form
-        var slackForm = document.getElementById("slackForm");
-
-        // right before the form submits, execute the function called populatePayloadField
-        slackForm.onsubmit = populatePayloadField;
-
-        function populatePayloadField() {
-            // convert form fields into a JSON string
-            var formData = getFormData();
-            delete formData.payload;
-            jsonString = JSON.stringify(formData);
-
-            // create a new hidden input and add it to the form
-            var payloadInput = document.createElement("input");
-            payloadInput.setAttribute("type", "hidden");
-            payloadInput.setAttribute("name", "payload");
-            payloadInput.setAttribute("value", jsonString);
-            console.log(payloadInput);
-            slackForm.appendChild(payloadInput);
-            console.log(slackForm);
-        }
-
-        // a helper function to return a javascript object containing all the form's fields
-        function getFormData() {
-            var object = {};
-            var fields = $("#slackForm").serializeArray();
-            for (var i = 0; i &lt; fields.length; i++) {
-                var field = fields[i];
-                object[field.name] = field.value;
-            }
-            return object;
-        }
-    &lt;/script&gt;
-
-&lt;/body&gt;
-&lt;/html&gt;</code></pre>
+                    <h5 id="module-8">Module 8</h5>
+<p><a href="../../class2-prep">Back to Class 2 Prep</a></p>
+<h1 id="exercise--codecademy--jquery">Exercise : Codecademy / jQuery</h1>
+<p>Once again, it's time to take a field trip over to Codecademy to get your hands dirty writing some code, this time to learn jQuery!</p>
+<p>Do the following three lessons:</p>
+<ul>
+<li><a href="https://www.codecademy.com/en/courses/web-beginner-en-bay3D/resume?curriculum_id=50a3fad8c7a770b5fd0007a1">Introduction to jQuery</a> (13 exercises)</li>
+<li><a href="https://www.codecademy.com/en/courses/web-beginner-en-GfjC6/resume?curriculum_id=50a3fad8c7a770b5fd0007a1">Functions and Selectors</a> (13 exercises)</li>
+<li><a href="https://www.codecademy.com/en/courses/web-beginner-en-v6phg/resume?curriculum_id=50a3fad8c7a770b5fd0007a1">Modifying HTML Elements</a> (14 exercises)</li>
+</ul>
+<p>This should take you 3 - 4 hours overall. If you have spent more than that, feel free to take a break from this and move on to the rest of the Class 2 Prep Work.</p>
                 </section>
 
             </div>
