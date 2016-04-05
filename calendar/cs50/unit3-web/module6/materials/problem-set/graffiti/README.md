@@ -1,6 +1,6 @@
 ##### [Module 6](../../../)
 
-# Problem Set 6 Alt
+# Problem Set: Graffiti
 
 This problem set is going to be very similar to the [LunchCode](../../studios/lunchcode) studio. You will create an HTML page with a form that allows the user to interact with an API.
 
@@ -18,7 +18,7 @@ Once you have created an account and signed in, you should see a chatroom with s
 
 Slack has a vast API for doing all kinds of fancy cool stuff. We're going to use one particular feature, their <a href="https://api.slack.com/incoming-webhooks" target="_blank">Incoming Web Hooks</a> endpoint, which simply allows an external program to post messages to a channel. For example, participants in a `#civic-hacking` channel might write a program that automatically posts updates of local elections around the country as the results come in.
 
-Go take a look at the <a href="https://launchcodecommunity.slack.com/messages/pset6-graffitiwall/" target="_blank">#pset6-graffitiwall</a> channel, which we have set up specifically for the assignment. This channel will serve as a big shared "graffiti wall" on which you and hundreds of other CS50xers will come together and share pearls of wisdom such as:
+Go take a look at the <a href="https://launchcodecommunity.slack.com/messages/pset-graffitiwall/" target="_blank">#pset-graffitiwall</a> channel, which we have set up specifically for the assignment. This channel will serve as a big shared "graffiti wall" on which you and hundreds of other CS50xers will come together and share pearls of wisdom such as:
 
 * "Testing 123..."
 * "asdf"
@@ -41,7 +41,7 @@ According to the Slack docs, the host that we want to talk to is `https://hooks.
 
 The endpoint is `/services/123456789`
 
-where `123456789` represents a unique identifier to our `#pset6-graffitiwall` channel. The actual channel ID is available on Vocareum. Click on the assignment titled **Problem Set 6 Alt: Graffiti**, and you will see it.
+where `123456789` represents a unique identifier to our `#pset-graffitiwall` channel. The actual channel ID is available on Vocareum. Click on the assignment titled **Problem Set: Graffiti**, and you will see it.
 
 The overall url we want is simply the endpoint tacked onto the host: `https://hooks.slack.com/services/123456789`
 
@@ -116,7 +116,7 @@ This command should receive a response of
 ok
 ```
 
-Hey, that sounds pretty ok! And indeed, if you go over to the `#pset6-graffitiwall` channel, you should now see a message there!
+Hey, that sounds pretty ok! And indeed, if you go over to the `#pset-graffitiwall` channel, you should now see a message there!
 
 <img src="screenshots/curlresult.png"/>
 
@@ -150,7 +150,7 @@ For the `icon_emoji`, notice that we provided as special syntax with the name of
 
 ### Your Mission
 
-Your job is to create an HTML page with a form that will post messages to the `#pset6-graffitiwall` channel. Your page should look something like this:
+Your job is to create an HTML page with a form that will post messages to the `#pset-graffitiwall` channel. Your page should look something like this:
 
 <img src="screenshots/graffiti.png"/>
 
@@ -158,7 +158,7 @@ When the user clicks the orange "Scrawl on the Wall" button, the form should sub
 
 <img src="screenshots/response.png"/>
 
-That's not super interesting, but over in our #pset6-graffitiwall channel on Slack, we should now see this:
+That's not super interesting, but over in our #pset-graffitiwall channel on Slack, we should now see this:
 
 <img src="screenshots/eatyourveg.png"/>
 
@@ -202,9 +202,9 @@ If you're having trouble, the developer tools are a nice place to do some debugg
 
 In Chrome, the `Network` tab allows you to inspect HTTP requests and responses coming in and out. That sounds useful! 
 
-<img src="screenshots/devtools.png"/>
+<img src="screenshots/developertools.png"/>
 
-<img src="screenshots/devtools2.png"/>
+<img src="screenshots/developtools2.png"/>
 
 
 ### Select
@@ -233,7 +233,7 @@ Good luck! CSS can be <a href="http://imgur.com/gallery/Q3cUg29" target="_blank"
 
 ### How to Submit
 
-On Vocareum, find the assignment titled **Problem Set 6 Alt: Graffiti**.
+On Vocareum, find the assignment titled **Problem Set: Graffiti**.
 
 Submit your `graffiti.html` and `styles.css` files.
 
