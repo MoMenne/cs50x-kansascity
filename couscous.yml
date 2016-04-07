@@ -21,7 +21,7 @@ menu:
     items:
         studentguide:  
             text: Student Guide
-            absoluteUrl: https://docs.google.com/document/d/1qyWoWFAxUAc_-OcXQYRX4ZxELUyZxSnArFvAacrfFsA/edit?usp=sharing
+            absoluteUrl: https://docs.google.com/document/d/10bCxIARYUvh84GuoM4nscDZDMqeasaBBLmwckA3qTnA/edit?usp=sharing
             attributes: target="_blank"
         howtotake:
             text: How To Take This Class
