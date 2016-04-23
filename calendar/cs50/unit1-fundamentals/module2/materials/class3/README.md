@@ -10,7 +10,7 @@ Work away on [Problem Set 2](../problem-set).
 ### During Class
 
 1. Soft Skills Presentation by Steven Lawler. 
-2. Office Hours: Continue working on [Problem Set 2](../problem-set). Instructors will be circulating to provide help.
+2. Extreme Coding: Continue working on [Problem Set 2](../problem-set). Instructors will be circulating to provide help.
 
 ### Homework
 1. Finish [Problem Set 2](../problem-set)
