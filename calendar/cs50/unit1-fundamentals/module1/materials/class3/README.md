@@ -12,7 +12,7 @@ Normally Class 3 will be reserved entirely for Extreme Coding, but today we will
 1. Studios
   * [Repeat](../studios/repeat) 
   * [Dollars and Cents](../studios/dollars-and-cents)
-2. Office Hours: continue working on [Problem Set 1](../problem-set). 
+2. Extreme Coding: continue working on [Problem Set 1](../problem-set). 
 
 ### Homework
 1. You're ready for [Module 2](../../../module2)! The next step is to start work on the [Prep for Module 2 / Class 1](../../../module2/materials/class1-prep)
