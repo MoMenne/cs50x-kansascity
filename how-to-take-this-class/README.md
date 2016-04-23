@@ -1,4 +1,4 @@
-[See Course Calendar](../calendar)
+﻿[See Course Calendar](../calendar)
 # How to take this class
 
 Before you start with the course materials, we highly encourage you to read the information here. Our curriculum uses specific terms that instruct you on how to complete each task. Eventually, this will become second nature, but in the beginning you may have to refer back to this section to make sure you know what to do. 
@@ -37,9 +37,9 @@ In most class sessions, students will work on **Studios**. Studios are specially
  
 There will also be **Q&A** during class sessions. The course instructor will answer questions from students that are related to that week’s topics. This time is meant to address general problems that can help most students, and is not intended to be used to solve specific student problems. 
 
-Every class session will also have some time dedicated to **Office Hours**. This is unstructured time where students should work on the week’s assignment. Mentors, teaching fellows (TFs), and instructors will be available to answer specific questions. 
+Every class session will also have some time dedicated to **Extreme Coding**. This is unstructured time where students should work on the week’s assignment. Mentors, teaching fellows (TFs), and instructors will be available to answer specific questions. 
 
-The typical class structure within a Module is to have Studio and Q&A for the first two classes, and Office Hours for the third class (and fun for all 3!).
+The typical class structure within a Module is to have Studio and Q&A for the first two classes, and Extreme Coding for the third class (and fun for all 3!).
 
 ### Homework
 Outside of class, your homework on a given night (or day) will be some combination of the Problem Set for your current Module, and the Prep Work for an upcoming class. 
