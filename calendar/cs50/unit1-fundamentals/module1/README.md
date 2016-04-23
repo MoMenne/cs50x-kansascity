@@ -18,6 +18,6 @@ Class # | Date | Before Class | During Class | Topics/Skills
 :------:|:----:|:------------:|:------------:|-----------------------|
 Class 1 | 4/18 | [Prep Work](./materials/class1-prep) | [In Class](./materials/class1) | CS50 IDE setup, printf, basic math |
 Class 2 | 4/20 | [Prep Work](./materials/class2-prep) | [In Class](./materials/class2) | conditions, loops, variables, calling functions, nesting control flow, debugging |
-Class 3 | 4/25 | Work on [Problem Set 1](./materials/problem-set)| [In Class](./materials/class3) | (office hours)
+Class 3 | 4/25 | Work on [Problem Set 1](./materials/problem-set)| [In Class](./materials/class3) | Extreme Coding
 
 
