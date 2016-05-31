@@ -7,7 +7,7 @@ No Prep Work. Work away on [Problem Set 7](../problem-set).
 
 ### During Class
 
-Office Hours: Continue working on [Problem Set 7](../problem-set). Instructors will be circulating to provide help.
+Extreme Coding: Continue working on [Problem Set 7](../problem-set). Instructors will be circulating to provide help.
 
 ### Homework
 1. Finish [Problem Set 7](../problem-set)

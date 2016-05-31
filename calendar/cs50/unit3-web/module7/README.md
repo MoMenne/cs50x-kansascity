@@ -24,5 +24,5 @@ Class # | Date| Before Class | During Class | Topics / Skills
 Class 1 | 6/29 | [Prep Work](./materials/class1-prep) | [In Class](./materials/class1) | PHP syntax, PHP on the Web, sessions & cookies
 Holiday! | 7/4 | No prep! | No class! | No class for Independence Day
 Class 2 | 7/6 | [Prep Work](./materials/class2-prep) | [In Class](./materials/class2) | The MVC Paradigm, SQL
-Class 3 | 7/11 | Continue [Problem Set 7](./materials/problem-set) | [In Class](./materials/class3) | (office hours!)
+Class 3 | 7/11 | Continue [Problem Set 7](./materials/problem-set) | [In Class](./materials/class3) | (Extreme Coding!)
 

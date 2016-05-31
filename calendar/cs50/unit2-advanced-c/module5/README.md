@@ -15,4 +15,4 @@ Class # | Date | Before Class | During Class | Topics/Skills
 :------:|:----:|:------------:|:------------:|-----------------------|
 Class 1 | 6/8 | [Prep Work](./materials/class1-prep) | [In Class](./materials/class1) | more on pointers and memory, linked lists |
 Class 2 | 6/13 | [Prep Work](./materials/class2-prep) | [In Class](./materials/class2) | hash tables, trees and tries, stacks and queues |
-Class 3 | 6/15 | Work on [Problem Set 5](./materials/problem-set) | [In Class](./materials/class3) | (office hours!) |
+Class 3 | 6/15 | Work on [Problem Set 5](./materials/problem-set) | [In Class](./materials/class3) | (Extreme Coding!) |
