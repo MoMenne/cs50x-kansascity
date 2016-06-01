@@ -41,7 +41,7 @@ Do | Exercise | [Restaurant Menu - Part 2](../exercises/restaurant-2) | Redo the
 
 Task | Resource Type | Link | Instructions
 -----|------|------|------
-Read | Lecture Nodes | <a href="http://cdn.cs50.net/2015/fall/lectures/4/w/notes4w/notes4w.html#structs" target="_blank">Week 4, continued / Structs</a> | These notes introduce `struct`s, why they are useful, how to create them, and how to access their inner data fields.
+Read | Lecture Notes | <a href="http://cdn.cs50.net/2015/fall/lectures/4/w/notes4w/notes4w.html#structs" target="_blank">Week 4, continued / Structs</a> | These notes introduce `struct`s, why they are useful, how to create them, and how to access their inner data fields.
 Watch | Doug's Playlist | <a href="https://www.youtube.com/watch?v=6RLxPdZ59y0&index=4&list=PLhQjrBD2T383tGruv374_Yee84qbXeJjq" target="_blank">Structs</a> | Doug talks more about `struct`s, including the shorthand `->` for accessing fields when you have a pointer to a struct.
 Watch | Doug's Playlist | <a href="https://www.youtube.com/watch?v=wgv4xH_tVgA&list=PLhQjrBD2T383tGruv374_Yee84qbXeJjq&index=5" target="_blank">Defining Custom Types</a> | Doug shows us how to use the `typedef` keyword so we can define our structs as actual data types. That way, we don't have to rewrite the word `"struct"` everywhere in our code.
 Watch | Short | <a href="https://www.youtube.com/watch?v=EzRwP7NV0LM&index=7&list=PLhQjrBD2T381pcj3Ph49iiDkrhZ9FHpHP" target="_blank">Structs</a> | This short talks more about structs. There is one part where he gets into "linked lists" and recursively defined structs, which you won't really need to worry about until Module 5.
