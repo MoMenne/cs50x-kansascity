@@ -18,7 +18,7 @@ Once you complete these classes, you will be well equipped to create a final pro
 
 ***
 
-### Steps
+### Schedule
 
 Class # | Date | Before Class | During Class | Topics/Skills
 :------:|:----:|:------------:|:------------:|-----------------------|

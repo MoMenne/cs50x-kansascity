@@ -12,8 +12,8 @@ Over the course of building this project, you will solidify your comfort with th
 
 ### Schedule
 
-Class | Date | Prep Work | During Class | Topics
-|------|----|----------|--------------|-------|
+Class # | Date | Before Class | During Class | Topics/Skills
+:------:|:----:|:------------:|:------------:|-----------------------|
 Class 0 | 7/25 | [Class 0 Prep](./materials/class0-prep) | [In Class](./materials/class0) | Git, Chrome dev tools | 
 Class 1 | 7/27 | [Class 1 Prep](./materials/class1-prep) | [In Class](./materials/class1) | Module 8 review; jQuery; branches in Git | 
 Class 2 | 8/1 | [Class 2 Prep](./materials/class2-prep) | [In Class](./materials.class2) | CSS (box model, other essentials); functional JS; AJAX; Semantic HTML |
