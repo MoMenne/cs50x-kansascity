@@ -22,11 +22,11 @@ Once you complete these classes, you will be well equipped to create a final pro
 
 Class # | Date | Before Class | During Class | Topics/Skills
 :------:|:----:|:------------:|:------------:|-----------------------|
-Class 0 | *TBD* | [Prep Work](./materials/class0-prep) | (setup, office hours) | Getting set up
-Class 1 | *TBD* | [Prep Work](./materials/class1-prep) | [In Class](./materials/class1) | Objects, classes
-Class 2 | *TBD* | [Prep Work](./materials/class2-prep) | [In Class](./materials/class2) | Unit tests, I/O
-Class 3 | *TBD* | Work on [Problem Set 9](./materials/problem-set-9) | [In Class](./materials/class3) | (office hours)
-Class 4 | *TBD* | [Prep Work](./materials/class4-prep) | [In Class](./materials/class4) | Inheritance, GUIs
-Class 5 | *TBD* | [Prep Work](./materials/class5-prep) | [In Class](./materials/class5) | Interfaces, Exceptions
-Class 6 | *TBD* | Work on your [final project](./materials/final-project) | [In Class](./materials/class6) | (office hours)
+Class 0 | 7/25 | [Prep Work](./materials/class0-prep) | (setup, office hours) | Getting set up
+Class 1 | 7/27 | [Prep Work](./materials/class1-prep) | [In Class](./materials/class1) | Objects, classes
+Class 2 | 8/1 | [Prep Work](./materials/class2-prep) | [In Class](./materials/class2) | Unit tests, I/O
+Class 3 | 8/3 | Work on [Problem Set 9](./materials/problem-set-9) | [In Class](./materials/class3) | (office hours)
+Class 4 | 8/8 | [Prep Work](./materials/class4-prep) | [In Class](./materials/class4) | Inheritance, GUIs
+Class 5 | 8/10 | [Prep Work](./materials/class5-prep) | [In Class](./materials/class5) | Interfaces, Exceptions
+Class 6 | 8/15 | Work on your [final project](./materials/final-project) | [In Class](./materials/class6) | (office hours)
 
