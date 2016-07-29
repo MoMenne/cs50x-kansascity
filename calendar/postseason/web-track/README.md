@@ -16,7 +16,7 @@ Class # | Date | Before Class | During Class | Topics/Skills
 :------:|:----:|:------------:|:------------:|-----------------------|
 Class 0 | 7/25 | [Class 0 Prep](./materials/class0-prep) | [In Class](./materials/class0) | Git, Chrome dev tools | 
 Class 1 | 7/27 | [Class 1 Prep](./materials/class1-prep) | [In Class](./materials/class1) | Module 8 review; jQuery; branches in Git | 
-Class 2 | 8/1 | [Class 2 Prep](./materials/class2-prep) | [In Class](./materials.class2) | CSS (box model, other essentials); functional JS; AJAX; Semantic HTML |
+Class 2 | 8/1 | [Class 2 Prep](./materials/class2-prep) | [In Class](./materials/class2) | CSS (box model, other essentials); functional JS; AJAX; Semantic HTML |
 Class 3 | 8/3 | [Class 3 Prep](./materials/class3-prep) | [In Class](./materials/class3) | Responsiveness; Bootstrap; more AJAX | 
 Class 4 | 8/8 | [Class 4 Prep](./materials/class4-prep) | [In Class](./materials/class4) | Sometimes a lack of topics is the most advanced topic of all. |
 Class 5 | 8/10 | [Class 5 Prep](./materials/class5-prep) | [In Class](./materials/class5) | Even more AJAX; More practice with functional style and higher-order functions in JS   | 
